@@ -140,13 +140,13 @@ Subsequent sections derive the spatial distributions of charge density $\rho(x)$
 
 ## Sample Results
 
-![Charge Profile (μm vs. C/cm³)](assets/charge_profile.png)
-![Electric Field (V/μm)](assets/electric_field.png)
-![Potential Profile (V)](assets/potential.png)
-![Capacitance vs. V\_R](assets/capacitance.png)
-![Minority Carrier Distribution](assets/minority_carrier.png)
-![I–V Characteristics](assets/iv_characteristics.png)
-![Band Diagrams](assets/band_diagrams.png)
+![Charge Profile (μm vs. C/cm³)](assets/1.png)
+![Electric Field (V/μm)](assets/2.png)
+![Potential Profile (V)](assets/3.png)
+![Capacitance vs. V\_R](assets/4.png)
+![Minority Carrier Distribution](assets/5.png)
+![I–V Characteristics](assets/6.png)
+![Band Diagrams](assets/7_1.png)(assets/7_2.png)(assets/7_3.png)
 
 *(Place generated plots in `assets/` for quick reference.)*
 
