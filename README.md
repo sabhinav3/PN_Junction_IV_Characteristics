@@ -154,15 +154,10 @@ Subsequent sections derive the spatial distributions of charge density $\rho(x)$
 
 ## References
 
-* S. Abhinav, *Project 3: I-V characteristics of p-n junctions*, Fundamentals of Solid State Devices .
 * S. M. Sze & K. K. Ng, *Physics of Semiconductor Devices*, 3rd ed.
 
 ---
 
-## Author
+## Developer
 
-**S. Abhinav**
-801366280
-Email: [abhinav@example.com](mailto:abhinav@example.com)
-
-Feel free to open issues or submit pull requests to improve simulations, add new materials, or extend analyses!
+**Abhinav Samudrala**
