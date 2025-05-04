@@ -148,9 +148,9 @@ Subsequent sections derive the spatial distributions of charge density $\rho(x)$
 | ![Junction Capacitance](assets/4.png) | Capacitance vs. reverse bias |
 | ![Minority Carrier](assets/5.png) | Minority carrier decay profiles |
 | ![I–V Characteristics](assets/6.png) | Diode I–V characteristics (log scale) |
-| ![Conduction Band Edges](assets/7_1.png) | Energy band diagrams under bias |
-| ![Conduction Band Edges](assets/7_2.png) | Energy band diagrams under bias |
-| ![Conduction Band Edges](assets/7_3.png) | Energy band diagrams under bias |
+| ![Conduction Band Edges](assets/7_1.png) | Energy band diagrams under Zero bias |
+| ![Conduction Band Edges](assets/7_2.png) | Energy band diagrams under Forward bias |
+| ![Conduction Band Edges](assets/7_3.png) | Energy band diagrams under Reverse bias |
 
 
 ---
