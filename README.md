@@ -140,15 +140,18 @@ Subsequent sections derive the spatial distributions of charge density $\rho(x)$
 
 ## Sample Results
 
-![Charge Profile (μm vs. C/cm³)](assets/1.png)
-![Electric Field (V/μm)](assets/2.png)
-![Potential Profile (V)](assets/3.png)
-![Capacitance vs. V\_R](assets/4.png)
-![Minority Carrier Distribution](assets/5.png)
-![I–V Characteristics](assets/6.png)
-![Band Diagrams](assets/7_1.png)(assets/7_2.png)(assets/7_3.png)
+| Output | Description |
+|:---:|:---|
+| ![Charge Density](assets/1.png) | Space-charge density vs. position |
+| ![Electric Field](assets/2.png) | Electric field profile |
+| ![Potential Profile](assets/3.png) | Electrostatic potential distribution |
+| ![Junction Capacitance](assets/4.png) | Capacitance vs. reverse bias |
+| ![Minority Carrier](assets/5.png) | Minority carrier decay profiles |
+| ![I–V Characteristics](assets/6.png) | Diode I–V characteristics (log scale) |
+| ![Conduction Band Edges](assets/7_1.png) | Energy band diagrams under bias |
+| ![Conduction Band Edges](assets/7_2.png) | Energy band diagrams under bias |
+| ![Conduction Band Edges](assets/7_3.png) | Energy band diagrams under bias |
 
-*(Place generated plots in `assets/` for quick reference.)*
 
 ---
 
