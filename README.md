@@ -47,13 +47,13 @@ pip install numpy matplotlib
 
 ```
 .
-├── charge_depletion.py            # Q1: Depletion width & charge profile
-├── electric_field.py             # Q2: Electric field profile
-├── potential.py                  # Q3: Electrostatic potential profile
-├── capacitance_reverse_bias.py   # Q4: Junction capacitance vs. reverse bias
-├── minority_carrier.py           # Q5: Minority carrier distributions
-├── forward_reverse_bias.py       # Q6: I–V characteristics (Si & Ge)
-├── band_diagram.py               # Q7: Energy band diagrams under bias
+├── charge_depletion.py           # Depletion width & charge profile
+├── electric_field.py             # Electric field profile
+├── potential.py                  # Electrostatic potential profile
+├── capacitance_reverse_bias.py   # Junction capacitance vs. reverse bias
+├── minority_carrier.py           # Minority carrier distributions
+├── forward_reverse_bias.py       # I–V characteristics (Si & Ge)
+├── band_diagram.py               # Energy band diagrams under bias
 └── README.md                     # Project overview and instructions
 ```
 
